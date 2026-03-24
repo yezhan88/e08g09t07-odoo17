@@ -31,3 +31,6 @@ echo "[5] Start Odoo"
 sudo systemctl start ${OD_SERVICE}
 
 echo "Deployment complete."
+
+
+#testing pipeline 1
